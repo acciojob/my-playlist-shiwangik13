@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+
+.player_one{
+	background: white;
+}
+.player_two{
+	text-align: center;
+	padding: 50px;
+}
